@@ -84,3 +84,4 @@ Ollama makes running state-of-the-art AI models accessible and efficient for eve
 We welcome contributions from the community! Feel free to fork this repository, submit issues, or propose enhancements.
 📧 Support
 
+presently android and linux only supported
