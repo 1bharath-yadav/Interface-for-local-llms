@@ -79,8 +79,8 @@ Ollama is a platform for running large models locally. Here’s how to install a
 🌟 Why Ollama?
 
 Ollama makes running state-of-the-art AI models accessible and efficient for everyone. Whether you're a developer, a student, or just an enthusiast, Ollama provides an easy-to-use platform for interacting with Meta’s advanced large language models—all on your Android device!
-🤝 Contribution
 
+🤝 Contribution
 We welcome contributions from the community! Feel free to fork this repository, submit issues, or propose enhancements.
 📧 Support
 
