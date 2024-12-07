@@ -1,14 +1,17 @@
 ## Ollama
 
 
-### History Bar
-![History Bar](media/history_bar.jpg)
-
-### Settings Page
-![Settings Page](media/settings_page.jpg)
-
-### Prompt Video
-[Watch the Prompt Video](media/prompt.mp4)
+<p align="center">
+  <!-- History Bar Image -->
+  <img src="media/history_bar.jpg" alt="History Bar" width="300">
+  <!-- Settings Page Image -->
+  <img src="media/settings_page.jpg" alt="Settings Page" width="300">
+  <!-- Video -->
+  <video width="300" controls>
+    <source src="media/prompt.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 Ollama is a lightweight Android app that serves as an intuitive interface for running Meta's large language models directly on your device through Termux. With support for Meta's LLaMA 2.3 models (1B and 3B parameters), Ollama transforms your smartphone into a powerful AI assistant, requiring just 1GB to 2GB of RAM for seamless operation.
 🚀 Features
