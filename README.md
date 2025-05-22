@@ -1,7 +1,6 @@
 ## Ollama
 
 <p align="center">
-  <img src="media/history_bar.jpg" alt="History Bar" width="300">
   <img src="media/settings_page.jpg" alt="Settings Page" width="300">
   <img src="media/prompt.gif" alt="Prompt Video" width="300">
 </p>
